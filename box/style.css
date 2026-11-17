@@ -4,6 +4,14 @@
     height: 200;
     color: white;
     border-radius: 7px;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+
+    
 }
 
 .card-heading{
@@ -11,6 +19,9 @@
     text-decoration: underline;
 }
 
-.div-bg{
-    background-color: grey;
+.card-body{
+    width: 100px;
+    /* background-color: red; */
+    margin-left: auto;
+    margin-right: auto;
 }
